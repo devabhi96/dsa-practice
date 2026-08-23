@@ -4,6 +4,7 @@
  * ans*ans <= x.
  * Time: O(log x) | Space: O(1)
  */
+
 class Solution {
 public:
     int mySqrt(int x) {
